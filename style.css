@@ -1,0 +1,88 @@
+h1 {
+  color: rgb(255, 34, 12);
+  font-size: 60px;
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: underline;
+  text-align: center;
+
+}
+
+body{
+  color: rgb(255, 252, 242);
+  background-color: rgb();
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+div {
+  width: 300px;
+  margin: 50px auto;
+}
+
+table {
+  width: 600px;
+  height: 100px;
+}
+
+th, td {
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(4 21 31);
+
+}
+
+th {
+  background-color: rgb(255, 34, 12);
+}
+
+.img-circle{
+  border-radius: 180px;
+  box-shadow: 3px 3px 1px black;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fab {
+    padding: 30px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    color: white;
+}
+
+.sidebar-text {
+  color: white;
+  text-decoration: none;
+}
+
+.sidebar-shapes{
+  background-color: rgb(255, 34, 12);
+  border-radius: 40px;
+  width: 100px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.intro{
+  background-color: rgb(0 53 89);
+  border-radius: 40px;
+  width: 700px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+#sidebar{
+  position: fixed;
+  border-radius: 20px;
+  width: 150px;
+  left: 70;
+  top: 5;
+  background-color: rgb(0 53 89);
+}
+
+#page-content{
+  margin-left: 300px;
+}
